@@ -6,6 +6,7 @@ Starbucks Finder - iOS
 An iOS app to list all nearby Starbucks.
 Click on the list will open the Starbucks location on a map.
 The app will search nearby Starbucks with current GPS position by default, click the top-right icon to change the search location.
+
 See also: [Android version](https://github.com/CHico-Lee/Starbucks-Finder-Android)
 
 
