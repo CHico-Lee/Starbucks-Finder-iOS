@@ -16,6 +16,7 @@
 		231927DD20AA94B600720C41 /* StoreTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 231927DB20AA94B600720C41 /* StoreTableViewController.xib */; };
 		231927DF20AAA25D00720C41 /* NearbyStarbucks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 231927DE20AAA25D00720C41 /* NearbyStarbucks.swift */; };
 		231927E120AAB23300720C41 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 231927E020AAB23300720C41 /* Podfile */; };
+		2398813D20B61F8F00ED5B13 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = 2398813C20B61F8F00ED5B13 /* LICENSE.md */; };
 		23C218E820A9069B00B2F632 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23C218E720A9069B00B2F632 /* AppDelegate.swift */; };
 		23C218EA20A9069B00B2F632 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23C218E920A9069B00B2F632 /* MapViewController.swift */; };
 		23C218ED20A9069B00B2F632 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23C218EB20A9069B00B2F632 /* Main.storyboard */; };
@@ -53,6 +54,7 @@
 		231927DB20AA94B600720C41 /* StoreTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StoreTableViewController.xib; sourceTree = "<group>"; };
 		231927DE20AAA25D00720C41 /* NearbyStarbucks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearbyStarbucks.swift; sourceTree = "<group>"; };
 		231927E020AAB23300720C41 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		2398813C20B61F8F00ED5B13 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		23C218E420A9069B00B2F632 /* starbucksfinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = starbucksfinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23C218E720A9069B00B2F632 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23C218E920A9069B00B2F632 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		23C218DB20A9069B00B2F632 = {
 			isa = PBXGroup;
 			children = (
+				2398813C20B61F8F00ED5B13 /* LICENSE.md */,
 				23CDEB5220B0B97C000B8B5A /* docs */,
 				2310732020AFF5F800BF6DCE /* README.md */,
 				2310731E20AFE0BE00BF6DCE /* .gitignore */,
@@ -284,6 +287,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2398813D20B61F8F00ED5B13 /* LICENSE.md in Resources */,
 				23CDEB5320B0B97D000B8B5A /* docs in Resources */,
 				231927E120AAB23300720C41 /* Podfile in Resources */,
 				2310731F20AFE0BE00BF6DCE /* .gitignore in Resources */,
