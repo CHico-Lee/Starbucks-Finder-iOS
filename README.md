@@ -84,20 +84,16 @@ To run on Xcode:
     - API Key for **Maps SDK for iOS** and **Google Places API for iOS**
 
     Paste API keys into `starbucksfinder\keys.plist`
-    ```xml
+    ```plist
     <!--keys.plist-->
     <?xml version="1.0" encoding="UTF-8"?>
     <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
     <plist version="1.0">
     <dict>
         <key>webPlacesApiKey</key>
-        <string>
-            Places Web Service API KEY HERE
-        </string>
+        <string>Places Web Service API KEY HERE</string>
         <key>gmsIosApiKey</key>
-        <string>
-            iOS Maps and Places API KEY HERE
-        </string>
+        <string>iOS Maps and Places API KEY HERE</string>
     </dict>
     </plist>
     ```
